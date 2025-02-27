@@ -1,0 +1,35 @@
+ideas
+
+- auto grading feature to it based on the holds that you add
+
+- drag drop holds
+	- snaping and free form
+
+- holds catalogue
+
+- customisable wall design
+
+- holds are objects
+
+- user designed sequences
+
+- model human of height 169.5 cm
+
+- a varient of C for language 
+
+- have a way for users to import own holds
+
+- a way to save walls (with no holds) for future user	
+
+- placeholder brand names (ANGUS)
+
+- hover over holds and highlights all holds in same routes
+
+- check for overlapping
+
+- lidar scan of walls
+
+- 
+
+
+
