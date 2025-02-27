@@ -29,6 +29,8 @@ ideas
 
 - lidar scan of walls
 
+- ursina (python)
+
 - 
 
 
